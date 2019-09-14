@@ -5,7 +5,7 @@ Script will export all the href links found in a modern canvas page to a csv so 
 
 Script Name | Description
 ---|---
-OutputLinksFromPages|Will output any href links in a modern SharePoing page into a csv file
+OutputLinksFromPages|Will output any href links in a modern SharePoint page into a csv file
 sites.csv|Contains a list of sites that the script will run against
 
 ## **Disclaimer** 
